@@ -1,3 +1,2 @@
-# References
+# Esto no debería genera un problema ahora
 
-* octocat 1 😈
